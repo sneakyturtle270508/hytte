@@ -1,0 +1,11 @@
+{
+	"author": "Bludit",
+	"email": "",
+	"website": "https://themes.bludit.com",
+	"version": "3.21.0",
+	"releaseDate": "2026-04-25",
+	"license": "MIT",
+	"compatible": "3.21",
+	"notes": "Improved accessibility, SEO with Schema.org, responsive design, and performance",
+	"plugin": "alternative"
+}
