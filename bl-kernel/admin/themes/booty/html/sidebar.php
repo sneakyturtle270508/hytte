@@ -8,6 +8,20 @@
 		<span style="margin-left: 10px; font-weight: 600; font-size: 1rem; color: var(--text-primary); line-height: 1;"><?php echo (defined('BLUDIT_PRO'))?'BLUDIT PRO':'BLUDIT' ?></span>
 	</li>
 
+	<?php if (checkRole(array('author'), false)): ?>
+
+	<li class="nav-item">
+		<a class="nav-link" href="<?php echo HTML_PATH_ADMIN_ROOT.'new-content?hyttehub-cabin=1' ?>"><span class="fa fa-home"></span>New cabin</a>
+	</li>
+	<li class="nav-item">
+		<a class="nav-link" href="<?php echo HTML_PATH_ADMIN_ROOT.'content' ?>"><span class="fa fa-list"></span>Manage cabins</a>
+	</li>
+	<li class="nav-item mt-5">
+		<a class="nav-link" href="<?php echo HTML_PATH_ADMIN_ROOT.'logout' ?>"><span class="fa fa-arrow-circle-right"></span><?php $L->p('Logout') ?></a>
+	</li>
+
+	<?php else: ?>
+
 	<li class="nav-item">
 		<a class="nav-link" href="<?php echo HTML_PATH_ADMIN_ROOT.'dashboard' ?>"><span class="fa fa-dashboard"></span><?php $L->p('Dashboard') ?></a>
 	</li>
@@ -80,4 +94,6 @@
 	<li class="nav-item mt-5">
 		<a class="nav-link" href="<?php echo HTML_PATH_ADMIN_ROOT.'logout' ?>"><span class="fa fa-arrow-circle-right"></span><?php $L->p('Logout') ?></a>
 	</li>
+
+	<?php endif; ?>
 </ul>

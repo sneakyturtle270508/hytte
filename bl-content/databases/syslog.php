@@ -1,6 +1,70 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
 [
     {
+        "date": "2026-05-03 00:35:59",
+        "dictionaryKey": "new-content-created",
+        "notes": "autosave-95d6f50bedebc4d6d251aad3e7f49460",
+        "idExecution": "69f67c4f3fa08",
+        "method": "POST",
+        "username": "test"
+    },
+    {
+        "date": "2026-05-02 22:03:28",
+        "dictionaryKey": "new-content-created",
+        "notes": "autosave-94670504dc0f5f36d01e3aed48ec3ab6",
+        "idExecution": "69f65890ccf1c",
+        "method": "POST",
+        "username": "test"
+    },
+    {
+        "date": "2026-05-02 22:03:25",
+        "dictionaryKey": "new-content-created",
+        "notes": "empty",
+        "idExecution": "69f6588d5ec7e",
+        "method": "POST",
+        "username": "test"
+    },
+    {
+        "date": "2026-05-02 22:02:02",
+        "dictionaryKey": "content-edited",
+        "notes": "Fjord View Cabin",
+        "idExecution": "69f6583a6e8b6",
+        "method": "POST",
+        "username": "test"
+    },
+    {
+        "date": "2026-05-02 21:59:50",
+        "dictionaryKey": "new-content-created",
+        "notes": "nanssdsfsdfdsf",
+        "idExecution": "69f657b64101e",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2026-05-02 21:57:19",
+        "dictionaryKey": "content-edited",
+        "notes": "tytrrht",
+        "idExecution": "69f6571f35ac3",
+        "method": "POST",
+        "username": "test"
+    },
+    {
+        "date": "2026-05-02 21:56:38",
+        "dictionaryKey": "access-denied",
+        "notes": "test",
+        "idExecution": "69f656f63a9c1",
+        "method": "GET",
+        "username": "test"
+    },
+    {
+        "date": "2026-05-02 21:55:51",
+        "dictionaryKey": "user-edited",
+        "notes": "test",
+        "idExecution": "69f656c702303",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
         "date": "2026-05-02 20:34:19",
         "dictionaryKey": "new-content-created",
         "notes": "Fjord View Cabin",
@@ -15,69 +79,5 @@
         "idExecution": "69f643a538404",
         "method": "POST",
         "username": "test"
-    },
-    {
-        "date": "2026-05-02 20:32:55",
-        "dictionaryKey": "new-content-created",
-        "notes": "tytrrht",
-        "idExecution": "69f64357d3ded",
-        "method": "POST",
-        "username": "test"
-    },
-    {
-        "date": "2026-05-02 20:32:55",
-        "dictionaryKey": "content-edited",
-        "notes": "tytrrht",
-        "idExecution": "69f6435758e5d",
-        "method": "POST",
-        "username": "test"
-    },
-    {
-        "date": "2026-05-02 20:32:55",
-        "dictionaryKey": "content-deleted",
-        "notes": "autosave-21ab65050ffd5d00957478c8de780e9e",
-        "idExecution": "69f6435758e5d",
-        "method": "POST",
-        "username": "test"
-    },
-    {
-        "date": "2026-05-02 20:13:59",
-        "dictionaryKey": "new-content-created",
-        "notes": "tytrrht",
-        "idExecution": "69f63ee6f3264",
-        "method": "POST",
-        "username": "test"
-    },
-    {
-        "date": "2026-05-02 20:13:55",
-        "dictionaryKey": "new-content-created",
-        "notes": "tytrrht",
-        "idExecution": "69f63ee3c7a11",
-        "method": "POST",
-        "username": "test"
-    },
-    {
-        "date": "2026-05-02 20:12:48",
-        "dictionaryKey": "new-content-created",
-        "notes": "[Autosave]",
-        "idExecution": "69f63ea053ffd",
-        "method": "POST",
-        "username": "test"
-    },
-    {
-        "date": "2026-05-02 19:35:16",
-        "dictionaryKey": "content-deleted",
-        "notes": "create-your-own-content",
-        "idExecution": "69f635d4d5e20",
-        "method": "POST",
-        "username": "test"
-    },
-    {
-        "date": "2026-05-02 19:30:59",
-        "dictionaryKey": "user-password-changed",
-        "notes": "test",
-        "idExecution": "69f634d35eb06",
-        "method": "POST",
-        "username": "admin"
     }
 ]

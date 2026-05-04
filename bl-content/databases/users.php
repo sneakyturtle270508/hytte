@@ -27,7 +27,7 @@
         "lastName": "",
         "nickname": "",
         "description": "",
-        "role": "editor",
+        "role": "author",
         "password": "194f4e0e224be87bdd75aaddb6d69d7bc71457af",
         "salt": "vj7lz&r4",
         "email": "earara",

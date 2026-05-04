@@ -1,13 +1,153 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
 {
+    "autosave-95d6f50bedebc4d6d251aad3e7f49460": {
+        "title": "",
+        "description": "",
+        "username": "test",
+        "tags": [],
+        "type": "autosave",
+        "date": "2026-05-03 00:35:59",
+        "dateModified": "",
+        "position": 0,
+        "coverImage": "",
+        "category": "",
+        "md5file": "d41d8cd98f00b204e9800998ecf8427e",
+        "uuid": "autosave-95d6f50bedebc4d6d251aad3e7f49460",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": [
+            false
+        ]
+    },
+    "autosave-94670504dc0f5f36d01e3aed48ec3ab6": {
+        "title": "",
+        "description": "",
+        "username": "test",
+        "tags": [],
+        "type": "autosave",
+        "date": "2026-05-02 22:03:28",
+        "dateModified": "",
+        "position": 0,
+        "coverImage": "",
+        "category": "",
+        "md5file": "d41d8cd98f00b204e9800998ecf8427e",
+        "uuid": "autosave-94670504dc0f5f36d01e3aed48ec3ab6",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": [
+            false
+        ]
+    },
+    "empty": {
+        "title": "",
+        "description": "",
+        "username": "test",
+        "tags": [],
+        "type": "published",
+        "date": "2026-05-02 22:03:03",
+        "dateModified": "",
+        "position": 1003,
+        "coverImage": "",
+        "category": "",
+        "md5file": "d41d8cd98f00b204e9800998ecf8427e",
+        "uuid": "94670504dc0f5f36d01e3aed48ec3ab6",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": {
+            "price": {
+                "value": ""
+            },
+            "location": {
+                "value": ""
+            },
+            "guests": {
+                "value": ""
+            },
+            "bedrooms": {
+                "value": ""
+            },
+            "amenities": {
+                "value": ""
+            },
+            "interior_image_1": {
+                "value": ""
+            },
+            "interior_image_2": {
+                "value": ""
+            },
+            "owner_email": {
+                "value": ""
+            },
+            "featured": {
+                "value": false
+            }
+        }
+    },
+    "nanssdsfsdfdsf": {
+        "title": "nanssdsfsdfdsf",
+        "description": "",
+        "username": "admin",
+        "tags": [],
+        "type": "published",
+        "date": "2026-05-02 21:58:58",
+        "dateModified": "",
+        "position": 1002,
+        "coverImage": "",
+        "category": "",
+        "md5file": "d41d8cd98f00b204e9800998ecf8427e",
+        "uuid": "9f6964327ac8cec3b7055cb2296bf018",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": {
+            "price": {
+                "value": "3422"
+            },
+            "location": {
+                "value": "trysil"
+            },
+            "guests": {
+                "value": "66"
+            },
+            "bedrooms": {
+                "value": "234"
+            },
+            "amenities": {
+                "value": "all"
+            },
+            "interior_image_1": {
+                "value": "http:\/\/localhost:8000\/bl-content\/uploads\/pages\/9f6964327ac8cec3b7055cb2296bf018\/Screenshot-2026-04-27-at-08-29-04-png.png"
+            },
+            "interior_image_2": {
+                "value": ""
+            },
+            "owner_email": {
+                "value": "William.berge.gronsberg27@gmail.com"
+            },
+            "featured": {
+                "value": true
+            }
+        }
+    },
     "autosave-hh-fjord-cabin": {
         "title": "Fjord View Cabin",
         "description": "",
         "username": "test",
         "tags": [],
-        "type": "autosave",
+        "type": "draft",
         "date": "2026-05-02 20:34:19",
-        "dateModified": "",
+        "dateModified": "2026-05-02 22:02:02",
         "position": 0,
         "coverImage": "",
         "category": "",
@@ -18,9 +158,35 @@
         "noindex": false,
         "nofollow": false,
         "noarchive": false,
-        "custom": [
-            false
-        ]
+        "custom": {
+            "price": {
+                "value": ""
+            },
+            "location": {
+                "value": ""
+            },
+            "guests": {
+                "value": ""
+            },
+            "bedrooms": {
+                "value": ""
+            },
+            "amenities": {
+                "value": ""
+            },
+            "interior_image_1": {
+                "value": ""
+            },
+            "interior_image_2": {
+                "value": ""
+            },
+            "owner_email": {
+                "value": ""
+            },
+            "featured": {
+                "value": false
+            }
+        }
     },
     "autosave-21ab65050ffd5d00957478c8de780e9e": {
         "title": "tytrrht",
@@ -29,7 +195,7 @@
         "tags": [],
         "type": "autosave",
         "date": "2026-05-02 20:32:55",
-        "dateModified": "",
+        "dateModified": "2026-05-02 21:57:19",
         "position": 0,
         "coverImage": "",
         "category": "",
@@ -49,7 +215,7 @@
         "description": "",
         "username": "test",
         "tags": [],
-        "type": "published",
+        "type": "draft",
         "date": "2026-05-02 20:12:59",
         "dateModified": "2026-05-02 20:32:55",
         "position": 1001,
